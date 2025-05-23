@@ -159,7 +159,8 @@ int main() {
 ```
 ## OUTPUT
 
-![alt text](<exp 19.png>)
+![alt text](<exp 19 0 (1).png>)
+![alt text](<exp 19 0 (2).png>)
 
 ## RESULT
 Thus the program to count the total number of words in a given string using do While loop has been executed successfully
